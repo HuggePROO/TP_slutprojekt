@@ -1,0 +1,653 @@
+﻿  Scanning sources for module dependencies...
+  main.cpp
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(852,30): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1051,28): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1058,30): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1065,32): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1196,39): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1212,52): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1280,52): warning C4365: 'argument': conversion from 'size_t' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1307,52): warning C4365: 'argument': conversion from 'size_t' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1318,52): warning C4365: 'argument': conversion from 'size_t' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1673,40): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1683,37): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1706,19): warning C4365: 'initializing': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1724,19): warning C4365: 'initializing': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1763,60): warning C4365: 'argument': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1763,57): warning C4365: 'argument': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1778,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1779,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1780,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1781,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1782,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1783,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1784,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1785,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1786,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1787,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1788,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1789,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1835,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1836,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1837,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1838,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1839,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1840,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1841,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1842,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1843,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1844,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1845,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(1846,10): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(2021,23): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(2078,22): warning C4365: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(2106,45): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(2137,56): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(2160,25): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(2165,13): warning C4365: 'return': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(2178,11): warning C4365: 'return': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(2189,13): warning C4365: 'return': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(2235,48): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(2313,51): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3270,28): warning C4365: '=': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3271,28): warning C4365: '=': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3298,42): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3298,32): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3318,47): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3319,47): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3323,66): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3324,66): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3435,26): warning C4365: 'initializing': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3669,55): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3803,53): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3861,19): warning C4365: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3910,47): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3922,66): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3922,53): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3954,78): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3967,78): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3970,51): warning C4365: 'argument': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3971,51): warning C4365: 'argument': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3972,51): warning C4365: 'argument': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(3976,78): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4007,48): warning C4365: 'argument': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4021,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4022,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4062,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4063,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4199,21): warning C4365: 'return': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4229,27): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4351,37): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4353,37): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4367,14): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4368,14): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4369,14): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4374,13): warning C4365: 'initializing': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4388,36): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4392,36): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4394,36): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4399,35): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4432,32): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4490,29): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4491,28): warning C4365: '=': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4523,36): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4544,36): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4680,15): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4686,15): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4709,14): warning C4365: 'initializing': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4712,46): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4712,43): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4717,38): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4719,51): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4719,48): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4719,31): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4728,47): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4734,15): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4757,27): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4760,27): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4781,27): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4791,24): warning C4365: 'initializing': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4801,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4807,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4814,31): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4834,40): warning C4365: '=': conversion from 'int' to 'stbi__uint16', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4839,45): warning C4365: '=': conversion from 'int' to 'stbi__uint16', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4845,45): warning C4365: '=': conversion from 'int' to 'stbi__uint16', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4846,45): warning C4365: '=': conversion from 'int' to 'stbi__uint16', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4847,45): warning C4365: '=': conversion from 'int' to 'stbi__uint16', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4871,59): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4871,46): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4880,48): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4881,48): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4883,31): warning C4365: 'initializing': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4884,83): warning C4365: 'argument': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4884,80): warning C4365: 'argument': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4893,51): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4918,23): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4943,23): warning C4365: '=': conversion from 'int' to 'stbi__uint16', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(4961,38): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5054,29): warning C4365: 'initializing': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5055,43): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5056,43): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5057,43): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5100,28): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5167,64): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5194,47): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5207,109): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5207,103): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5229,58): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5248,35): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5249,35): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5250,35): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5251,35): warning C4365: '=': conversion from 'stbi_uc' to 'char', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5255,28): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5284,16): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5285,16): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5316,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5317,20): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5356,22): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5389,13): warning C4365: 'return': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5455,32): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5456,35): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5464,31): warning C4365: '=': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5465,31): warning C4365: '=': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5473,20): warning C4365: 'initializing': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5546,18): warning C4365: '=': conversion from 'int' to 'stbi__uint32', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5594,50): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5594,40): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5597,59): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5597,49): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5610,49): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5611,54): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5612,40): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5659,37): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5660,41): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5686,26): warning C4365: '=': conversion from 'int' to 'unsigned char', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5698,21): warning C4365: '=': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5709,33): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5728,10): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(5729,10): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6065,80): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6065,69): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6153,21): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6154,21): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6178,30): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6181,31): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6184,31): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6204,43): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6234,30): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6254,33): warning C4365: 'initializing': conversion from 'int' to 'stbi__uint16', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6259,28): warning C4365: 'initializing': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6314,89): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6314,86): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6316,58): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6316,55): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6527,28): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6536,52): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6536,50): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6604,26): warning C4365: '=': conversion from 'int' to 'stbi_uc', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6662,43): warning C4365: 'argument': conversion from 'stbi__int16' to 'stbi__uint16', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6793,43): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6794,50): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6795,45): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6802,30): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6803,37): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6804,32): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6836,47): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6840,35): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(6994,39): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7007,40): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7010,53): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7018,40): warning C4365: '=': conversion from 'size_t' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7021,55): warning C4365: 'argument': conversion from 'int' to 'size_t', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7039,70): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7039,62): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7064,57): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7064,52): warning C4365: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7346,17): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7347,17): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7379,22): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7380,22): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7518,10): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7519,10): warning C4365: '=': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7522,52): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7522,42): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7525,61): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7525,51): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\include\stb_image.h(7527,59): warning C4365: 'argument': conversion from 'stbi__uint32' to 'int', signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\main.cpp(298,23): warning C4456: declaration of 'model' hides previous local declaration
+      C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\main.cpp(287,19):
+      see declaration of 'model'
+  
+C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\src\main.cpp(336,44): warning C4100: 'window': unreferenced formal parameter
+  Project1.vcxproj -> C:\Users\hugo.larsson2\Documents\Tillampad_Programmering\Project1\x64\Debug\Project1.exe
